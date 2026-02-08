@@ -57,7 +57,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: kutalabhavya@gmail.com  
-- 💼 LinkedIn: [Bhavya Kutala](https://www.linkedin.com/in/k-bhavya-royal-961406290/)  
+- 💼 LinkedIn: [Bhavya Kutala](https://www.linkedin.com/in/bhavya-kutala/)  
 - 🧑‍💻 GitHub: [bhavyaroyal](https://github.com/bhavyaroyal)  
 - 🧠 LeetCode: [bhavya_royal](https://leetcode.com/u/bhavya_royal/)
 
