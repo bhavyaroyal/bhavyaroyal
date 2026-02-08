@@ -1,80 +1,66 @@
-## Hi there 👋## Hi there 👋 I'm Bhavya
+## Hi there 👋 I'm Bhavya Kutala  
 
-### 👩‍💻 Full Stack Web Developer | Always Learning 🚀
+### Associate Software Engineer | Java Full Stack Developer | Entry-Level Java Developer  
 
-I'm a passionate Full Stack Web Developer trained at **TAP Academy**, with hands-on experience in building responsive web applications and working with both frontend and backend technologies.
-
----
-
-### 🧑‍💼 About Me
-- 🎓 Full Stack Web Development Certified (TAP Academy – 2025)
-- 💻 Interested in Web Development & Software Engineering
-- 🌱 Currently improving JavaScript, React & Backend skills
-- 🤝 Open to internships, fresher roles & collaborations
+🚀 Passionate about building **scalable and reliable web applications** using Java technologies.  
+💡 Strong foundation in **Core Java, JDBC, Spring Boot, and MySQL**.  
+🌱 Always learning and improving my backend & full-stack skills.
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</p>
+## 👨‍💻 About Me
+- 🎓 B.Tech Graduate (ECE)
+- 💻 Focused on **Java-based backend & full-stack development**
+- 🔁 Love working with databases and server-side logic
+- 📚 Consistent learner, problem solver, and clean-code believer
 
 ---
 
-### 📂 Projects
-- 🌐 **Portfolio Website** – Personal responsive portfolio
-- 📝 **JavaScript Projects** – To-Do App, Form Validation
-- 🗄️ **Student Management System** – DB-based project
+## 🛠️ Tech Stack
 
-👉 Check my pinned repositories below 👇
+### 🔹 Programming
+- Core Java (OOP, Collections, Multithreading, Exception Handling)
+- SQL
+
+### 🔹 Backend
+- JDBC  
+- Servlets & JSP  
+- Spring / Spring Boot (Basics)
+
+### 🔹 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+
+### 🔹 Database
+- MySQL
+
+### 🔹 Tools
+- Git & GitHub  
+- Eclipse  
+- VS Code  
 
 ---
 
-### 🎓 Certification
-- **Full Stack Web Development** – TAP Academy (2025)
+## 📌 What I'm Currently Doing
+- 🔨 Practicing **Java + MySQL** mini applications
+- 📈 Improving **Spring Boot & REST API** knowledge
+- 🧠 Solving problems on **LeetCode**
 
 ---
 
-### 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+## 🤝 Looking For
+- Entry-level **Java Developer / Associate Software Engineer** roles
+- Opportunities to learn, grow, and contribute to real-world applications
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavyaroyal&show_icons=true&theme=radical"/>
-</p>
+## 📫 Connect With Me
+- 📧 Email: kutalabhavya@gmail.com  
+- 💼 LinkedIn: [Bhavya Kutala](https://www.linkedin.com/in/k-bhavya-royal-961406290/)  
+- 🧑‍💻 GitHub: [bhavyaroyal](https://github.com/bhavyaroyal)  
+- 🧠 LeetCode: [bhavya_royal](https://leetcode.com/u/bhavya_royal/)
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyaroyal&theme=radical"/>
-</p>
+---
 
-
-<!--
-**bhavyaroyal/bhavyaroyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *“Code, Learn, Improve – Every Single Day”*
